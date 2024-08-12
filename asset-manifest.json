@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/switch-e36/static/css/main.4093ddf2.css",
+    "main.js": "/switch-e36/static/js/main.60310bde.js",
+    "index.html": "/switch-e36/index.html",
+    "main.4093ddf2.css.map": "/switch-e36/static/css/main.4093ddf2.css.map",
+    "main.60310bde.js.map": "/switch-e36/static/js/main.60310bde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4093ddf2.css",
+    "static/js/main.60310bde.js"
+  ]
+}
